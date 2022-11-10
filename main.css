@@ -174,7 +174,7 @@ textarea {
 .info{
     padding: 25px 25px;
 }
-@media (max-width: 800px) {
+@media (max-width: 768px) {
     .container{
         padding: 20px 30px;
     }
