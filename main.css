@@ -1,10 +1,12 @@
 @font-face {
-    font-family: Caviar;
-    src: url(fonts/Caviar-Dreams.ttf.woff);
+    /* font-family: Caviar;
+    src: url(fonts/Caviar-Dreams.ttf.woff); */
+    font-family: Roboto;
+    src: url(fonts/Roboto-Regular.ttf);
   }
   
   div {
-    font-family: Caviar;
+    font-family: Roboto;
   }
 body {
     font: 400 15px/1.8 Lato, sans-serif;
@@ -171,8 +173,12 @@ textarea {
     font-weight: 600;
     padding: 25px 5px;
 }
+.name b:first-child {
+    text-transform: uppercase;
+}
 .info{
     padding: 25px 25px;
+    text-align: justify;
 }
 @media (max-width: 768px) {
     .container{
