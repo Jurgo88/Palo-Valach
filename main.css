@@ -241,4 +241,16 @@ textarea {
     width: auto !important;
   }
   
+  .Jesus{
+    padding: 10px;
+    font-size: larger;
+    color: #9c27b0;
+    text-decoration: blink;
+    opacity: 1;
+  }
+  .Jesus:hover{
+    text-decoration: blink;
+    display: initial;
+    opacity: 1;
+  }
   
