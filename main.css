@@ -1,12 +1,12 @@
 @font-face {
-    /* font-family: Caviar;
-    src: url(fonts/Caviar-Dreams.ttf.woff); */
-    font-family: Roboto;
-    src: url(fonts/Roboto-Regular.ttf);
+    font-family: Caviar;
+    src: url(fonts/CaviarDreams.ttf);
+    /* font-family: Roboto;
+    src: url(fonts/Roboto-Regular.ttf); */
   }
   
   div {
-    font-family: Roboto;
+    font-family: Caviar;
   }
 body {
     font: 400 15px/1.8 Lato, sans-serif;
